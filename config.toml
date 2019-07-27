@@ -1,4 +1,4 @@
 baseURL = "mebasoglu.github.io"
-languageCode = "tr-tr"
+languageCode = "en-us"
 title = "MEBLOG"
 theme = "hugo-paper"
